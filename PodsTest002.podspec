@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "PodsTest002"
+  s.name         = "PodsTest0021"
   s.version      = "1.0.0"
   s.summary      = "A simple way to parse and generate XML on iOS and Mac OS."
 
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "PodsTest002/AdrXMLToDictionaryParser.{h,m}"
+  s.source_files  = "PodsTest0021/AdrXMLToDictionaryParser.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
