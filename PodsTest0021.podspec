@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PodsTest0021"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "A simple way to parse and generate XML on iOS and Mac OS."
 
   s.description  = <<-DESC
@@ -66,7 +66,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ShiYongjieGitHub/PodsTest002.git", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/ShiYongjieGitHub/PodsTest002.git", :tag => "1.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
